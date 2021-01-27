@@ -24,7 +24,7 @@ docker-compose==1.24.1
 docker-pycreds==0.4.0 
 dockerpty==0.4.1 
 docopt==0.6.2 
-flasgger==0.9.2 
+flasgger==0.9.5 
 gitdb==4.0.5 
 gitpython==3.1.11 
 google-auth==1.6.3 
